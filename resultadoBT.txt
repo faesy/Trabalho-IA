@@ -1,0 +1,1806 @@
+Solução encontrada com Backtracking Iterativo!
+Movimentos realizados:
+Encher jarro 1
+Encher jarro 2
+Encher jarro 3
+Encher jarro 4
+Encher jarro 5
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 5
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 2 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Encher jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Encher jarro 3
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Encher jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Encher jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 5
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 5
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Encher jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Esvaziar jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 5
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 4
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 5
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 1 para jarro 2
+Encher jarro 4
+Transferir de jarro 3 para jarro 5
+Encher jarro 2
+Esvaziar jarro 5
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 1
+Encher jarro 4
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Encher jarro 3
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 3
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 4
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 4
+Encher jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 2
+Encher jarro 4
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Encher jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Encher jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Encher jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Esvaziar jarro 2
+Encher jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 3
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 1
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 4
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 2 para jarro 4
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 5 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 1
+Encher jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 2 para jarro 4
+Encher jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 5 para jarro 3
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 2
+Esvaziar jarro 4
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 4 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 2 para jarro 3
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 4
+Encher jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 1 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Esvaziar jarro 2
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 4
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 5
+Transferir de jarro 3 para jarro 5
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 1
+Encher jarro 3
+Transferir de jarro 3 para jarro 2
+Esvaziar jarro 2
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 2 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 3 para jarro 2
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 5 para jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Encher jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 5
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 3 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 4 para jarro 5
+Esvaziar jarro 1
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 5 para jarro 4
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 3 para jarro 2
+Encher jarro 3
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Encher jarro 2
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 4 para jarro 2
+Transferir de jarro 3 para jarro 4
+Encher jarro 3
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 3
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 5
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 4 para jarro 3
+Encher jarro 4
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 5 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 5 para jarro 4
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 1 para jarro 2
+Encher jarro 5
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 4 para jarro 3
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 4 para jarro 1
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 1
+Transferir de jarro 5 para jarro 1
+Esvaziar jarro 3
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Esvaziar jarro 5
+Transferir de jarro 4 para jarro 5
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 3 para jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Transferir de jarro 3 para jarro 1
+Esvaziar jarro 1
+Transferir de jarro 2 para jarro 1
+Transferir de jarro 2 para jarro 3
+Transferir de jarro 3 para jarro 4
+Esvaziar jarro 4
+Transferir de jarro 3 para jarro 4
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Esvaziar jarro 4
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 5 para jarro 3
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 5
+Encher jarro 1
+Transferir de jarro 2 para jarro 3
+Esvaziar jarro 3
+Transferir de jarro 4 para jarro 3
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 4
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 2 para jarro 4
+Transferir de jarro 1 para jarro 2
+Transferir de jarro 5 para jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 3 para jarro 5
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 3
+Encher jarro 1
+Transferir de jarro 1 para jarro 2
+Encher jarro 1
+Tempo de execução: 8222 ms
