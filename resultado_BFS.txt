@@ -1,0 +1,5 @@
+Solução encontrada com BFS!
+Número de movimentos: 7
+Nós visitados: 1138
+Nós expandidos: 951
+Tempo de execução: 121 ms

@@ -1,0 +1,5 @@
+Solução encontrada com o algoritmo Guloso!
+Número de movimentos: 42
+Nós visitados: 1224
+Nós expandidos: 491
+Tempo de execução: 83 ms

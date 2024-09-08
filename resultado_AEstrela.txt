@@ -1,0 +1,5 @@
+Solução encontrada com A*!
+Número de movimentos: 7
+Nós visitados: 899
+Nós expandidos: 581
+Tempo de execução: 53 ms

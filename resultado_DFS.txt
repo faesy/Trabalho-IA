@@ -1,0 +1,5 @@
+Solução encontrada com DFS!
+Número de movimentos: 340
+Nós visitados: 1242
+Nós expandidos: 600
+Tempo de execução: 385 ms
